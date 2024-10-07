@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\bin\Debug\net8.0-windows\DrivelessUberCar.exe
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\bin\Debug\net8.0-windows\DrivelessUberCar.deps.json
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\bin\Debug\net8.0-windows\DrivelessUberCar.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\bin\Debug\net8.0-windows\DrivelessUberCar.dll
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\bin\Debug\net8.0-windows\DrivelessUberCar.pdb
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.frmUberCar.resources
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.Resources.resources
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.dll
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\refint\DrivelessUberCar.dll
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.pdb
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\DrivelessUberCar.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\DrivelessUberCar\obj\Debug\net8.0-windows\ref\DrivelessUberCar.dll
